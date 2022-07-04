@@ -9,7 +9,7 @@
 <h2>Melhorias e novidades implementadas no projeto: </h2>
 
 <ul>
-  <li>Responsividade para telas mobile</li>
+  <li>Responsividade para telas mobile,</li>
   <li>Adição de uma cor específica para cada tipo de Pokemon</li>
 </ul>
 
