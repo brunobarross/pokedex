@@ -1,5 +1,5 @@
 
-<h1>Plataforma de curso online</h1>
+<h1>Pokedex</h1>
   
 <p>Pokedex desenvolvida com Javascript Puro e consumindo a API de pokemons usando Promises e Fetch.</p>
 
