@@ -2,4 +2,4 @@
 Pokedex desenvolvida utilizando Javascript puro.
 
 
-![plataforma de curso online](./src/assets/screenshot.png)
+![Pokedex Vanilla Js](chrome_bUbQZ3WAZM.gif)
