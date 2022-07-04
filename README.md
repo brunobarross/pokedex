@@ -1,7 +1,7 @@
 
 <h1>Plataforma de curso online</h1>
   
-<p>Pokedex desenvolvida com Javascript Puro e consumindo a API de Pokemons usando fetch.</p>
+<p>Pokedex desenvolvida com Javascript Puro e consumindo a API de pokemons usando Promises e Fetch.</p>
 
 
 ![Pokedex Vanilla Js](chrome_bUbQZ3WAZM.gif)
